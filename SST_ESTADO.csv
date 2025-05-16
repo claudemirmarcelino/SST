@@ -1,0 +1,139 @@
+﻿AGENTES_CAUSADORES;QUANTIDADE;ANO;ESTADO
+Agente biologico;4;2012;MATO GROSSO
+Agente quimico;2;2012;MATO GROSSO
+Embalagens e tanques;1;2012;MATO GROSSO
+Ferramentas manuais;2;2012;MATO GROSSO
+Mobiliarios e assessorios;3;2012;MATO GROSSO
+Motocicleta;8;2012;MATO GROSSO
+Maquinas e equipamentos;11;2012;MATO GROSSO
+Queda de altura;1;2012;MATO GROSSO
+Veiculos de transporte;9;2012;MATO GROSSO
+Agente biologico;5;2013;MATO GROSSO
+Ferramentas manuais;3;2013;MATO GROSSO
+Mobiliarios e assessorios;2;2013;MATO GROSSO
+Motocicleta;7;2013;MATO GROSSO
+Maquinas e equipamentos;1;2013;MATO GROSSO
+Queda de altura;5;2013;MATO GROSSO
+Queda do mesmo nivel;5;2013;MATO GROSSO
+Veiculos de transporte;10;2013;MATO GROSSO
+Agente biologico;3;2014;MATO GROSSO
+Agente quimico;9;2014;MATO GROSSO
+Embalagens e tanques;2;2014;MATO GROSSO
+Ferramentas manuais;8;2014;MATO GROSSO
+Incendio;1;2014;MATO GROSSO
+Mobiliarios e assessorios;12;2014;MATO GROSSO
+Motocicleta;9;2014;MATO GROSSO
+Maquinas e equipamentos;15;2014;MATO GROSSO
+Queda de altura;9;2014;MATO GROSSO
+Queda do mesmo nivel;11;2014;MATO GROSSO
+Veiculos de transporte;20;2014;MATO GROSSO
+Agente biologico;4;2015;MATO GROSSO
+Agente quimico;7;2015;MATO GROSSO
+Embalagens e tanques;2;2015;MATO GROSSO
+Ferramentas manuais;10;2015;MATO GROSSO
+Impacto contra pessoa/objeto;1;2015;MATO GROSSO
+Mobiliarios e assessorios;6;2015;MATO GROSSO
+Motocicleta;6;2015;MATO GROSSO
+Maquinas e equipamentos;7;2015;MATO GROSSO
+Queda de altura;4;2015;MATO GROSSO
+Queda do mesmo nivel;14;2015;MATO GROSSO
+Veiculos de transporte;11;2015;MATO GROSSO
+Agente biologico;2;2016;MATO GROSSO
+Agente quimico;4;2016;MATO GROSSO
+Embalagens e tanques;1;2016;MATO GROSSO
+Ferramentas manuais;1;2016;MATO GROSSO
+Incendio;1;2016;MATO GROSSO
+Mobiliarios e assessorios;6;2016;MATO GROSSO
+Motocicleta;3;2016;MATO GROSSO
+Maquinas e equipamentos;10;2016;MATO GROSSO
+Queda de altura;5;2016;MATO GROSSO
+Queda do mesmo nivel;3;2016;MATO GROSSO
+Veiculos de transporte;8;2016;MATO GROSSO
+Agente biologico;3;2017;MATO GROSSO
+Agente quimico;3;2017;MATO GROSSO
+Embalagens e tanques;1;2017;MATO GROSSO
+Ferramentas manuais;4;2017;MATO GROSSO
+Mobiliarios e assessorios;5;2017;MATO GROSSO
+Motocicleta;3;2017;MATO GROSSO
+Maquinas e equipamentos;6;2017;MATO GROSSO
+Outros;2;2017;MATO GROSSO
+Queda de altura;7;2017;MATO GROSSO
+Queda do mesmo nivel;8;2017;MATO GROSSO
+Veiculos de transporte;8;2017;MATO GROSSO
+Agente biologico;8;2018;MATO GROSSO
+Agente quimico;4;2018;MATO GROSSO
+Choque eletrico;1;2018;MATO GROSSO
+Embalagens e tanques;2;2018;MATO GROSSO
+Ferramentas manuais;6;2018;MATO GROSSO
+Mobiliarios e assessorios;5;2018;MATO GROSSO
+Motocicleta;4;2018;MATO GROSSO
+Maquinas e equipamentos;12;2018;MATO GROSSO
+Queda de altura;2;2018;MATO GROSSO
+Queda do mesmo nivel;16;2018;MATO GROSSO
+Veiculos de transporte;26;2018;MATO GROSSO
+Agente biologico;3;2019;MATO GROSSO
+Agente quimico;4;2019;MATO GROSSO
+Esforco fisico;1;2019;MATO GROSSO
+Ferramentas manuais;5;2019;MATO GROSSO
+Impacto contra pessoa/objeto;2;2019;MATO GROSSO
+Mobiliarios e assessorios;3;2019;MATO GROSSO
+Maquinas e equipamentos;6;2019;MATO GROSSO
+Queda de altura;1;2019;MATO GROSSO
+Queda do mesmo nivel;5;2019;MATO GROSSO
+Veiculos de transporte;15;2019;MATO GROSSO
+Agente biologico;6;2020;MATO GROSSO
+Agente quimico;1;2020;MATO GROSSO
+Ferramentas manuais;2;2020;MATO GROSSO
+Impacto contra pessoa/objeto;3;2020;MATO GROSSO
+Incendio;1;2020;MATO GROSSO
+Mobiliarios e assessorios;1;2020;MATO GROSSO
+Motocicleta;7;2020;MATO GROSSO
+Maquinas e equipamentos;6;2020;MATO GROSSO
+Queda de altura;1;2020;MATO GROSSO
+Queda do mesmo nivel;1;2020;MATO GROSSO
+Veiculos de transporte;4;2020;MATO GROSSO
+Agente biologico;6;2021;MATO GROSSO
+Agente quimico;4;2021;MATO GROSSO
+Esforco fisico;1;2021;MATO GROSSO
+Ferramentas manuais;2;2021;MATO GROSSO
+Impacto contra pessoa/objeto;3;2021;MATO GROSSO
+Mobiliarios e assessorios;1;2021;MATO GROSSO
+Motocicleta;9;2021;MATO GROSSO
+Maquinas e equipamentos;8;2021;MATO GROSSO
+Queda de altura;4;2021;MATO GROSSO
+Queda de mesmo nivel;2;2021;MATO GROSSO
+Queda do mesmo nivel;7;2021;MATO GROSSO
+Substancias quentes e frias;1;2021;MATO GROSSO
+Veiculos de transporte;4;2021;MATO GROSSO
+Agente biologico;4;2022;MATO GROSSO
+Ferramentas manuais;4;2022;MATO GROSSO
+Impacto contra pessoa/objeto;9;2022;MATO GROSSO
+Motocicleta;4;2022;MATO GROSSO
+Maquinas e equipamentos;5;2022;MATO GROSSO
+Queda de altura;3;2022;MATO GROSSO
+Queda de mesmo nivel;2;2022;MATO GROSSO
+Queda do mesmo nivel;6;2022;MATO GROSSO
+Veiculos de transporte;11;2022;MATO GROSSO
+Agente biologico;4;2023;MATO GROSSO
+Agente quimico;2;2023;MATO GROSSO
+Esforco fisico;4;2023;MATO GROSSO
+Ferramentas manuais;4;2023;MATO GROSSO
+Impacto contra pessoa/objeto;17;2023;MATO GROSSO
+Mobiliarios e assessorios;5;2023;MATO GROSSO
+Motocicleta;9;2023;MATO GROSSO
+Maquinas e equipamentos;2;2023;MATO GROSSO
+Queda de altura;7;2023;MATO GROSSO
+Queda de mesmo nivel;1;2023;MATO GROSSO
+Queda do mesmo nivel;7;2023;MATO GROSSO
+Veiculos de transporte;8;2023;MATO GROSSO
+Agente biologico;6;2024;MATO GROSSO
+Agente quimico;5;2024;MATO GROSSO
+Ferramentas manuais;4;2024;MATO GROSSO
+Impacto contra pessoa/objeto;1;2024;MATO GROSSO
+Mobiliarios e assessorios;3;2024;MATO GROSSO
+Motocicleta;18;2024;MATO GROSSO
+Maquinas e equipamentos;7;2024;MATO GROSSO
+Outros;1;2024;MATO GROSSO
+Queda de altura;4;2024;MATO GROSSO
+Queda do mesmo nivel;14;2024;MATO GROSSO
+Veiculos de transporte;21;2024;MATO GROSSO
